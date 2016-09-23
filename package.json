@@ -1,0 +1,23 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "This is a simple web server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QianZhou/simpleserver.git"
+  },
+  "keywords": [
+    "qiannaiq123"
+  ],
+  "author": "QianZhou",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/QianZhou/simpleserver/issues"
+  },
+  "homepage": "https://github.com/QianZhou/simpleserver#readme"
+}
